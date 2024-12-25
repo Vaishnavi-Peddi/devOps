@@ -5,7 +5,7 @@ pipeline {
         stage('Clone Repository') {
             steps {
                 // Pull the latest code from your repository
-                git 'https://github.com/your-repo/flask-app.git'
+                git 'https://github.com/Vaishnavi-Peddi/devOps.git'
             }
         }
 
