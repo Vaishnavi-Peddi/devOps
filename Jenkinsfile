@@ -40,16 +40,6 @@ pipeline {
         }
     }
 
-    post {
-        always {
-            // Cleanup and notify
-            echo 'Pipeline completed'
-        }
-        success {
-            echo 'Pipeline completed successfully'
-        }
-        failure {
-            echo 'Pipeline failed'
-        }
+    
     }
 }
