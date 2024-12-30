@@ -1,0 +1,19 @@
+<!Doctype html>
+<html>
+<head>
+<title>contactus</title>
+</head>
+<body>
+<h1><centre>Form</h1></centre>
+firstname:<inputtype = "text" placeholder="firstname"><br></br>
+lastname:<inputtype = "text" placeholder="lastname"><br></br>
+email:<inputtype = "mail" placeholder="enter email"><br></br>
+password:<inputtype ="password"><br></br>
+dateofbirth:<inputtype ="date"><br></br>
+gender:<inputtype = "radio" name=gender>male<inputtype = "radio" name=gender>female<inputtype = "radio" name =gender>others<br></br>
+age:<inputtype= "number" placeholder="age"><br></br>
+clickhere:<inputtype = "clickhere" placeholder ="clickhere"><br></br>
+submit:<inputtype = "button" submit><br></br>
+</body>
+</html>
+
